@@ -1,2 +1,2 @@
 # apprentice_portfolio
-Portfolio for my DevOps apprentice
+Portfolio for my DevOps apprenticeship
